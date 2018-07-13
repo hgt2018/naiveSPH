@@ -1,2 +1,2 @@
 # naiveSPH
-basic SPH method demostrated with glut
+basic SPH method demonstrated with glut
